@@ -24,7 +24,7 @@ const dev = {
   plugins: [
     new WebpackShellPlugin({
       onBuildEnd: [
-        'drupal cr all',
+        'drush cr',
       ],
       dev: false, // Runs on EVERY rebuild
     }),
