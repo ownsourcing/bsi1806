@@ -1,0 +1,17 @@
+As a visitor using a screen reader, keyboard and mouse (e.g. laptop/desktop)
+
+As a visitor with low vision using a 10"+ screen, keyboard and mouse (e.g. laptop/desktop)
+
+As a visitor viewing a 10"+ screen at default resolution, using a keyboard and mouse (e.g. laptop/desktop)
+
+As a visitor using a screen reader and a small touchscreen (e.g. smartphone)
+
+As a visitor with low vision using a small touchscreen (e.g. smartphone)
+
+As a visitor viewing a small touchscreen at default resolution (e.g. smartphone)
+
+As an author using a screen reader on a small touchscreen (e.g. smartphone)
+
+As an author viewing a 10"+ screen at default resolution, using keyboard and mouse (e.g. laptop/desktop)
+
+As an author with low vision using a 10"+ screen, keyboard and mouse (e.g. laptop/desktop)
