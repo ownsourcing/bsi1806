@@ -1,0 +1,76 @@
+<svg width="1426" height="687.2030793152001" id="svgroot" xlinkns="http://www.w3.org/1999/xlink" style="display: block;">
+  <svg id="canvasBackground" width="687.2030793152001" height="687.2030793152001" x="369.39846034239997" y="0" overflow="none" style="pointer-events:none">
+    <defs id="placeholder_defs">
+      <pattern id="checkerPattern" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20" viewBox="0 0 10 10">
+        <rect x="0" y="0" width="10" height="10" fill="#fff"></rect>
+        <rect x="0" y="0" width="5" height="5" fill="#eee"></rect>
+        <rect x="5" y="5" width="5" height="5" fill="#eee"></rect>
+      </pattern>
+      <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+        <image x="0" y="0" width="100" height="100"></image>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" x="0" y="0" stroke="#000" fill="url(#checkerPattern)" style="pointer-events:none"></rect>
+  </svg>
+  <svg xmlns:xlink="http://www.w3.org/1999/xlink" height="687.2030793152001" id="svgcontent" viewBox="0 0 512 512" width="687.2030793152001" overflow="hidden" x="369.39846034239997" y="0">
+    <defs></defs>
+    <g style="pointer-events:none">
+      <title style="pointer-events:inherit">background</title>
+      <rect x="-1" y="-1" width="582" height="402" id="canvas_background" fill="none" style="pointer-events:inherit"></rect>
+    </g>
+    <g style="pointer-events:all">
+      <title style="pointer-events:inherit">Layer 1</title>
+      <path
+        d="M256,48C255.89999,48 255.89999,48 255.8,48C255.8,48 255.8,48 255.7,48C255.60001,48 255.5,48 255.5,48C140.8,48.3 48,141.3 48,256C48,370.70001 140.8,463.70001 255.5,464C255.60001,464 255.7,464 255.7,464C255.7,464 255.8,464 255.8,464C255.89999,464 255.89999,464 256,464C370.89999,464 464,370.89999 464,256C464,141.10001 370.89999,48 256,48zM256,447.39999C255.89999,447.39999 255.89999,447.39999 255.8,447.39999C255.8,447.39999 255.8,447.39999 255.7,447.39999C255.60001,447.39999 255.5,447.39999 255.5,447.39999C150.10001,447.10001 64.6,361.5 64.6,256C64.6,150.5 150,64.89999 255.49998,64.7C255.59999,64.7 255.59999,64.7 255.7,64.7C255.7,64.7 255.79999,64.7 255.79999,64.7C255.89999,64.7 255.89999,64.7 255.99998,64.7C361.69998,64.7 447.39999,150.39999 447.39999,256.09998C447.39999,361.70001 361.70001,447.39999 256,447.39999z"
+        style="pointer-events:inherit"
+        id="svg_2"></path>
+      <path d="M322.29999,171.8C303.59998,176.3 284.29999,179 264.39999,179.60001L264.39999,247.7L332,247.7C331.39999,219.60001 327.89999,194.10001 322.29999,171.8z" style="pointer-events:inherit" id="svg_3"></path>
+      <path d="M264.29999,82.5L264.29999,164.39999C282.79999,163.8 300.79999,161.39999 318.09998,157.2C305,115.8 284.60001,88.6 264.29999,82.5z" style="pointer-events:inherit" id="svg_4"></path>
+      <path d="M193.39999,157.10001C210.89999,161.3 228.99998,163.8 247.59999,164.40001L247.59999,82.3C227.3,88.2 206.60001,115.4 193.39999,157.10001z" style="pointer-events:inherit" id="svg_5"></path>
+      <path d="M380.60001,133.39999C358,110.39999 329.10001,93.59999 296.70001,85.89999C311.5,101.19999 323.90002,124.59999 332.79999,153.2C349.5,148.10001 365.5,141.5 380.60001,133.39999z" style="pointer-events:inherit" id="svg_6"></path>
+      <path
+        d="M347.29999,247.7L430.59998,247.7C428.79999,208.89999 414.29999,173.3 391.09998,145.10001C374,154.5 355.89999,162.2 337,167.89999C343.10001,191.89999 346.70001,219 347.29999,247.7z"
+        style="pointer-events:inherit"
+        id="svg_7"
+        stroke-dasharray="none"></path>
+      <path d="M179.5,247.7L247.7,247.7L247.7,179.60001C227.60001,179 208.10001,176.3 189.3,171.7C183.60001,194 180.10001,219.60001 179.5,247.7z" style="pointer-events:inherit" id="svg_8"></path>
+      <path d="M332,264.29999L264.29999,264.29999L264.29999,332.29999C284.20001,332.89999 303.60001,335.5 322.29999,340.09998C327.89999,317.89999 331.39999,292.29999 332,264.29999z" style="pointer-events:inherit" id="svg_9"></path>
+      <path d="M189.3,340.20001C208.10001,335.60001 227.60001,332.90002 247.7,332.30002L247.7,264.30002L179.50002,264.30002C180.10001,292.39999 183.60001,318 189.3,340.20001z" style="pointer-events:inherit" id="svg_10"></path>
+      <path d="M247.7,429.60001L247.7,347.5C229.10001,348.10001 210.89999,350.60001 193.39999,354.80002C206.60001,396.5 227.3,423.79999 247.7,429.60001z" style="pointer-events:inherit" id="svg_11"></path>
+      <path d="M296.70001,426.10001C329.10001,418.30002 358,401.60001 380.70001,378.5C365.60001,370.40002 349.60001,363.80002 332.90002,358.70001C324,387.39999 311.5,410.70001 296.70001,426.10001z" style="pointer-events:inherit" id="svg_12"></path>
+      <path d="M214.7,86.1C182.60001,93.9 153.89999,110.6 131.39999,133.5C146.39999,141.5 162.2,148.10001 178.7,153.10001C187.60001,124.6 200,101.4 214.7,86.1z" style="pointer-events:inherit" id="svg_13"></path>
+      <path d="M337,344.10001C356,349.80002 374.10001,357.5 391.20001,366.90002C414.39999,338.70001 428.89999,303.10001 430.70001,264.30002L347.39999,264.30002C346.70001,293 343.10001,320 337,344.10001z" style="pointer-events:inherit" id="svg_14"></path>
+      <path d="M264.29999,347.5L264.29999,429.5C284.59998,423.39999 305,396.20001 318.09998,354.70001C300.79999,350.5 282.79999,348.10001 264.29999,347.5z" style="pointer-events:inherit" id="svg_15"></path>
+      <path d="M174.60001,167.8C155.8,162.10001 137.8,154.5 120.90001,145.10001C97.7,173.3 83.2,208.89999 81.40001,247.7L164.3,247.7C164.8,218.89999 168.5,191.8 174.60001,167.8z" style="pointer-events:inherit" id="svg_16"></path>
+      <path d="M164.2,264.29999L81.3,264.29999C83.1,303.09998 97.6,338.69998 120.8,366.89999C137.7,357.59998 155.7,349.89999 174.5,344.19998C168.5,320.20001 164.8,293.10001 164.2,264.29999z" style="pointer-events:inherit" id="svg_17"></path>
+      <path d="M131.3,378.5C153.8,401.39999 182.5,418.10001 214.7,425.89999C200,410.60001 187.60001,387.29999 178.7,358.79999C162.2,363.89999 146.3,370.5 131.3,378.5z" style="pointer-events:inherit" id="svg_18"></path>
+    </g>
+  </svg>
+  <g id="selectorParentGroup" transform="translate(369.39846034239997,0)">
+    <rect id="selectorRubberBand" fill="none" stroke="#666" stroke-dasharray="3,2" display="none" style="pointer-events:none" x="-195.39847238227944" y="726.1015558310651" width="0" height="0"></rect>
+    <g id="selectorGroup0" transform="" display="none">
+      <path
+        id="selectedBox0"
+        fill="none"
+        stroke="#4F80FF"
+        shape-rendering="crispEdges"
+        style="pointer-events:none"
+        d="M451.3192143148875,193.75228711521535 L578.9484944838011,193.75228711521535 578.9484944838011,333.4613293929642 451.3192143148875,333.4613293929642z"></path>
+      <g display="none">
+        <circle id="selectorGrip_rotate_nw" fill="#000" r="8" stroke="#000" fill-opacity="0" stroke-opacity="0" stroke-width="0" style="cursor:url(images/rotate.png) 12 12, auto;" cx="447.3192143148875" cy="189.75228711521535"></circle>
+        <circle id="selectorGrip_rotate_ne" fill="#000" r="8" stroke="#000" fill-opacity="0" stroke-opacity="0" stroke-width="0" style="cursor:url(images/rotate.png) 12 12, auto;" cx="582.9484944838011" cy="189.75228711521535"></circle>
+        <circle id="selectorGrip_rotate_se" fill="#000" r="8" stroke="#000" fill-opacity="0" stroke-opacity="0" stroke-width="0" style="cursor:url(images/rotate.png) 12 12, auto;" cx="582.9484944838011" cy="337.4613293929642"></circle>
+        <circle id="selectorGrip_rotate_sw" fill="#000" r="8" stroke="#000" fill-opacity="0" stroke-opacity="0" stroke-width="0" style="cursor:url(images/rotate.png) 12 12, auto;" cx="447.3192143148875" cy="337.4613293929642"></circle>
+        <rect id="selectorGrip_resize_nw" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:nw-resize" pointer-events="all" x="447" y="190"></rect>
+        <rect id="selectorGrip_resize_n" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:n-resize" pointer-events="all" x="511" y="190"></rect>
+        <rect id="selectorGrip_resize_ne" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:ne-resize" pointer-events="all" x="575" y="190"></rect>
+        <rect id="selectorGrip_resize_e" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:e-resize" pointer-events="all" x="575" y="260"></rect>
+        <rect id="selectorGrip_resize_se" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:se-resize" pointer-events="all" x="575" y="329"></rect>
+        <rect id="selectorGrip_resize_s" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:s-resize" pointer-events="all" x="511" y="329"></rect>
+        <rect id="selectorGrip_resize_sw" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:sw-resize" pointer-events="all" x="447" y="329"></rect>
+        <rect id="selectorGrip_resize_w" width="8" height="8" fill="#4F80FF" stroke="rgba(0,0,0,0)" style="cursor:w-resize" pointer-events="all" x="447" y="260"></rect>
+      </g>
+    </g>
+  </g>
+</svg>
+<!-- <p><a href="https://www.iconfinder.com/icons/211847/world_icon#size=256">source</a></p> -->
